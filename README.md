@@ -1,6 +1,6 @@
 # Tarea-Lab-2
 
-Graficos $(\theta,g(\theta,\mu))$. $\mu$ se mantiene constante al calcular $g$
+Graficos $(\theta,g(\theta,\mu,r,t))$. $\mu$ se mantiene constante al calcular $g$. $r, t, \theta$ se obtienen mediante experimentación.
 
 Archivos de gráfico (estilo): grafico_g-theta_mu[].png
 

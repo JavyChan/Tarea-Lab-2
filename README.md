@@ -7,3 +7,5 @@ Archivos de gráfico (estilo): grafico_g-theta_mu[].png
 Archivo de código: graficos.ipynb
 
 Archivo de texto LaTeX: TAREALab-2.pdf
+
+Archivo de datos: datos_tiempo_angulo.txt

@@ -1,3 +1,5 @@
 # Tarea-Lab-2
 
-No hay recta a la que ajustar! HELP!!!
+Graficos $(\theta,g(\theta,\mu))$. $\mu$ se mantiene constante al calcular $g$
+
+Archivos de gráfico (estilo): 
